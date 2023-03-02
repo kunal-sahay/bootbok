@@ -1,1 +1,1 @@
-# bootbok
+# bootbok is actually a bookbot
